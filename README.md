@@ -2,4 +2,4 @@
 
 CSS Carousel
 
-<img src="xmas-day-17.gif" alt="word carousel gif" width="200px" />
+<img src="xmas-day-17.gif" alt="word carousel gif" width="350px" />
