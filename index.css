@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --bg-word: #5134ff;
+}
+
+/* Match styles as closely as u can */
+/* personalize - display 4 things u love */
+/* words should rotate in an infinite loop; no js */
